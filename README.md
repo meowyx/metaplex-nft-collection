@@ -22,6 +22,8 @@ A Solana program built with Anchor for managing NFT collections using Metaplex C
 
 1. Clone the repository:
 ```bash
+
+git clone https://github.com/meowyx/metaplex-nft-collection
 cd metaplex-nft-collection
 ```
 
